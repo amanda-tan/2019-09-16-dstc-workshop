@@ -1,9 +1,11 @@
 
 # Data science training and collaboration workshop, September 16th - 17th, 2019
 
-<img src="img/eScienceLogo.png" height=100>
-<img src="img/HSI-STEM-Website-Logo.png" height=100>
-<img src="img/west-big-data-hub-logo.jpg" height=100>
+<img src="img/eScienceLogo.png" height="100px">
+
+<img src="img/HSI-STEM-Website-Logo.png" height="100px">
+
+<img src="img/west-big-data-hub-logo.jpg" height="100px">
 
 ## [HSI STEM HUB](https://hsistemhub.org/) + [WEST BIG DATA INNOVATION HUB](https://westbigdatahub.org/)
 
@@ -36,13 +38,17 @@ tools and methods.
 ### Day 1:
 
 What is data science? (Speaker TBD)
+
 Data Science for Social Good + ethical considerations (Anissa Tanweer)
+
 Using the cloud for teaching and research (Amanda Tan)
 
 ### Day 2:
 
 Teaching how to program with live coding (Ariel Rokem)
+
 Building a community around data science (Kate Hertweck)
+
 Working with public sector partners and stakeholders (Jose Hernandez)
 
 ## Registration:
