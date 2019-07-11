@@ -1,9 +1,10 @@
 
-![](img/eScienceLogo)
 
-![](img/HSI-STEM-Website-Logo.png)
+<img src="img/eScienceLogo.png">
 
-![](img/west-big-data-hub-logo.jpg)
+<img src=img/HSI-STEM-Website-Logo.png">
+
+<img src="img/west-big-data-hub-logo.jpg">
 
 
 # Data science training and collaboration workshop, September 16th - 17th, 2019
