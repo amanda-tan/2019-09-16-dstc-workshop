@@ -1,13 +1,9 @@
 
-
-<img src="img/eScienceLogo.png">
-
-<img src=img/HSI-STEM-Website-Logo.png">
-
-<img src="img/west-big-data-hub-logo.jpg">
-
-
 # Data science training and collaboration workshop, September 16th - 17th, 2019
+
+<img src="img/eScienceLogo.png" height=100>
+<img src="img/HSI-STEM-Website-Logo.png" height=100>
+<img src="img/west-big-data-hub-logo.jpg" height=100>
 
 ## [HSI STEM HUB](https://hsistemhub.org/) + [WEST BIG DATA INNOVATION HUB](https://westbigdatahub.org/)
 
