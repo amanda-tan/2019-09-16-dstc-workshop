@@ -15,21 +15,21 @@ incorporate data science into their curriculum
 
 ## Goals of the workshop:
 
-#. Participants will learn new ways that data science can be integrated
+- Participants will learn new ways that data science can be integrated
 into their curriculum.
 
-#. Participants will use techniques and tools for teaching data science.
+- Participants will use techniques and tools for teaching data science.
 
-#. Participants will workshop and gain experience in teaching using approaches such
+- Participants will workshop and gain experience in teaching using approaches such
 as live coding, use of computational notebooks, version control, etc.
 
-#. Participants will learn about applications of data science in community
+- Participants will learn about applications of data science in community
 engagement (e.g., Data Science for Social Good).
 
-#. Participants will incorporate ethics considerations into use of data science
+- Participants will incorporate ethics considerations into use of data science
 tools and methods.
 
-#. Participants will collaboratively develop concepts for further joint work.
+- Participants will collaboratively develop concepts for further joint work.
 
 ## Tentative schedule:
 
@@ -49,9 +49,20 @@ Building a community around data science (Kate Hertweck)
 
 Working with public sector partners and stakeholders (Jose Hernandez)
 
+## Eligibility requirements
+
+Upon registration, participants will need to confirm that they:
+
+1. Work at a Hispanic-serving institution (>25% Hispanic) or at a minority-serving institution (>50% URM)
+1. Are instructors in a STEM field
+1. am a STEM instructor-other
+1. Work at a 2 year or 4 year terminal institution.
+1. Are within 10 year of their first academic appointment.
+will deploy training in these courses :
 ## Registration:
 
-To register, visit [eventbrite](XXX)
+Registration To register, visit [eventbrite](XXX)
+
 
 ## Logistics:
 
@@ -59,7 +70,3 @@ Participants will receive: Lodging at University Inn for check in September 15,
 check out September 17. Reimbursement for economy airfare, meals, transportation
 to/from airport and workshop For those wishing, airfare can be arranged direct,
 to reduce out of pocket costs
-
-
-
-
